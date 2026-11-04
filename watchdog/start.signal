@@ -1,1 +1,7 @@
-{"campaign_id":"log-dmodules-bernstein321-20261104T175314Z","run_id":"bernstein-216a4006-0b3d-4230-b6ed-2871ce8aea20","generation":3,"updated_at_utc":"2026-11-04T18:00:29.425Z","reason":"confirmed_registration"}
+{
+  "campaign_id": "log-dmodules-bernstein321-20261104T175314Z",
+  "run_id": "bernstein-clarified-85167c4a-8078-42e9-a09f-77708880fe40",
+  "generation": 5,
+  "updated_at_utc": "2026-11-04T20:05:06.468Z",
+  "reason": "authorized_scope_clarification"
+}
