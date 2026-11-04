@@ -1,6 +1,6 @@
 # Log D Modules workflow status
 
-_Generated from public watchdog coordination state at 2026-11-04T20:06:25.355031Z._
+_Generated from public watchdog coordination state at 2026-11-04T20:14:27.225368Z._
 
 | Field | Status |
 | --- | --- |
@@ -8,13 +8,13 @@ _Generated from public watchdog coordination state at 2026-11-04T20:06:25.355031
 | Execution | Active |
 | Current gate | Leakage check |
 | Next gate | Leakage check |
-| Checkpoint | g04-user-clarified-scope |
+| Checkpoint | g05-bernstein-v1-frozen |
 | Generation | 5 |
 | Lease | Active |
-| Active assignments | 0 |
+| Active assignments | 1 |
 | Recovery | Armed |
-| Last heartbeat (UTC) | 2026-11-04T20:06:00.359Z |
-| Lease expires (UTC) | 2026-11-04T20:41:00.359Z |
+| Last heartbeat (UTC) | 2026-11-04T20:13:46.477Z |
+| Lease expires (UTC) | 2026-11-04T20:48:46.477Z |
 | Terminal delivery complete | No |
 
 > This page intentionally contains only non-mathematical coordination metadata. It does not publish research prompts, candidate statements, proofs, audits, private paths, source documents, or mathematical results.
