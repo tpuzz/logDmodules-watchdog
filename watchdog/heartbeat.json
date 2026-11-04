@@ -6,7 +6,7 @@
   "authorization_statement_sha256": "7f12761aed5db327f81d42ded8760426ca26b3932323b9a59c377b5b249a2664",
   "checkpoint_id": "g02-componentwise-mechanism",
   "checkpoint_sha256": "568132310ff85a1559863050f64bc7dff690bb2ca03352ff3f4e048873b85e10",
-  "next_unfinished_action": "RECONCILE_INTERRUPTED_AW2_CW1",
+  "next_unfinished_action": "HOSTILE_AUDIT_CANDIDATE_V1",
   "hard_deadline_utc": null,
   "delivery_reserve_utc": null,
   "no_deadline_authorized": true,
@@ -17,15 +17,14 @@
   "statement_confirmed": true,
   "run_id": "bernstein-recovery-97299640-d87e-11f1-9156-ec74d652283a",
   "lease_generation": 4,
-  "phase": "RESEARCH_SEARCH",
-  "last_heartbeat_utc": "2026-11-04T18:40:01.018Z",
+  "phase": "VERIFICATION",
+  "last_heartbeat_utc": "2026-11-04T18:50:35.910Z",
   "recovery_armed": true,
   "terminal_delivery_complete": false,
   "final_status_verified": false,
   "user_stop_requested": false,
   "active_assignments": [
-    "route_a_w2",
-    "route_c_w1"
+    "hostile_candidate_v1"
   ],
   "recovery_receipt_path": "watchdog/receipts/log-dmodules-bernstein321-20261104T175314Z-recovery-g4.json"
 }
