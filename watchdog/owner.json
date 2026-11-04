@@ -1,13 +1,12 @@
 {
-  "campaign_id": "log-dmodules-lemma317-audit-20261104T143127Z",
-  "authorization_id": "log-dmodules-lemma317-audit-20261104T143127Z-authorization-v1",
-  "owner_run_id": "logdmodules-recovery-90443f70-d86e-11f1-98ed-9d474fd60692",
-  "generation": 2,
-  "status": "released",
-  "acquired_at_utc": "2026-11-04T16:44:03.648Z",
-  "last_renewed_utc": "2026-11-04T17:03:15.157Z",
-  "lease_expires_utc": "2026-11-04T17:03:15.157Z",
+  "campaign_id": "log-dmodules-bernstein321-20261104T175314Z",
+  "authorization_id": "log-dmodules-bernstein321-20261104T175314Z-authorization-v1",
+  "owner_run_id": "bernstein-216a4006-0b3d-4230-b6ed-2871ce8aea20",
+  "generation": 3,
+  "status": "active",
+  "acquired_at_utc": "2026-11-04T17:53:53.147Z",
+  "last_renewed_utc": "2026-11-04T17:53:53.147Z",
+  "lease_expires_utc": "2026-11-04T18:28:53.147Z",
   "lease_duration_seconds": 2100,
-  "user_stop_requested": false,
-  "released_at_utc": "2026-11-04T17:03:15.157Z"
+  "user_stop_requested": false
 }
