@@ -4,16 +4,17 @@
   "statement_sha256": "8863246bff8e8e1e813a541e3b8adcd5c75fdde8e210582b2006bc0361c0be6b",
   "authorization_id": "log-dmodules-prop324-20261104T225254Z-authorization-v1",
   "authorization_statement_sha256": "8863246bff8e8e1e813a541e3b8adcd5c75fdde8e210582b2006bc0361c0be6b",
-  "checkpoint_id": "g11-all-mathematics-promoted",
-  "checkpoint_sha256": "3f4160a4e28c3ffd016fa71beab26d5a151d91ee2308815ede9709ada3f46637",
-  "next_unfinished_action": "FINALIZE_DELIVERABLES_AND_RELEASE",
+  "checkpoint_id": "g12-delivered-terminal-write-pending",
+  "checkpoint_sha256": "59f3cd905938e5504ab38c0e8072f3ee02c98ec90efbae151f9c7bf9ea8f6083",
+  "next_unfinished_action": "NONE",
   "hard_deadline_utc": null,
   "delivery_reserve_utc": null,
   "no_deadline_authorized": true,
   "mathematics_authorized": false,
   "stop_requested": false,
-  "resume_authorized": true,
+  "resume_authorized": false,
   "statement_confirmed": true,
-  "status": "CONFIRMED",
-  "recovery_mode": "finalize_only"
+  "status": "TERMINAL",
+  "recovery_mode": "finalize_only",
+  "completed_at_utc": "2026-11-04T23:56:58.697Z"
 }
