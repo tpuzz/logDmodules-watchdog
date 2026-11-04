@@ -1,0 +1,12 @@
+{
+  "campaign_id": "log-dmodules-lemma317-audit-20261104T143127Z",
+  "authorization_id": "log-dmodules-lemma317-audit-20261104T143127Z-authorization-v1",
+  "owner_run_id": "logdmodules-root-20261104T143127Z",
+  "generation": 1,
+  "status": "active",
+  "acquired_at_utc": "2026-11-04T14:36:40Z",
+  "last_renewed_utc": "2026-11-04T14:36:40Z",
+  "lease_expires_utc": "2026-11-04T15:11:40Z",
+  "lease_duration_seconds": 2100,
+  "user_stop_requested": false
+}

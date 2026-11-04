@@ -1,0 +1,39 @@
+name: Log D Modules workflow watchdog
+
+on:
+  push:
+    branches: [main]
+    paths: ['watchdog/start.signal']
+  workflow_dispatch:
+  schedule:
+    - cron: '*/30 * * * *'
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: logdmodules-workflow-supervisor
+  cancel-in-progress: false
+
+jobs:
+  supervise:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check recovery decisions
+        run: python -m unittest discover -s watchdog -p 'test_*.py' -v
+      - name: Supervise current campaign
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python - <<'PY'
+          import json, os, subprocess
+          from pathlib import Path
+          signal = json.loads(Path('watchdog/start.signal').read_text())
+          command = ['python', 'watchdog/supervisor.py']
+          if os.environ['GITHUB_EVENT_NAME'] == 'push' and signal.get('signal') == 'NON_MATHEMATICAL_EVENT_PATH_TEST':
+              command += ['--diagnostic-event', signal['diagnostic_id']]
+          subprocess.run(command, check=True)
+          PY

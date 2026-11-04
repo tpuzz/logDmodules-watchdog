@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "repository": "tpuzz/logDmodules-watchdog",
+  "status": "INSTALLED_TEST_PENDING",
+  "basis_repository": "tpuzz/mckay-watchdog",
+  "source_supervisor_blob": "913a9161d1aeab17342e096b13b97637c2d3b032",
+  "stale_seconds": 2100,
+  "lease_seconds": 2100,
+  "renewal_target_seconds": 600,
+  "supervisor_window_minutes": 25,
+  "schedule": "*/30 * * * *",
+  "recovery_prefix": "LOGDMODULES_RECOVERY",
+  "test_prefix": "LOGDMODULES_RECOVERY_TEST",
+  "consumer_installed": true,
+  "consumer_end_to_end_verified": false,
+  "fixture_id": "logdmodules-infra-fixture-v1",
+  "fixture_sha256": "eed6c0d01d8e83d7121db868214979a095c51b137f84e86529e86c13ee5e5b72",
+  "test_status": "PENDING",
+  "no_deadline_authorized": true,
+  "limitations": [
+    "A configured trigger is not proof of actual Work execution."
+  ]
+}

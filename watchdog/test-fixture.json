@@ -1,0 +1,7 @@
+{
+  "fixture_id": "logdmodules-infra-fixture-v1",
+  "classification": "NON_MATHEMATICAL_FIXTURE",
+  "test_only": true,
+  "mathematics_authorized": false,
+  "payload": "Verify exact bytes, isolated test ownership, and release."
+}

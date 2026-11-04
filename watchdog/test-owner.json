@@ -1,0 +1,8 @@
+{
+  "fixture_id": "logdmodules-infra-fixture-v1",
+  "test_only": true,
+  "status": "released",
+  "owner_run_id": null,
+  "generation": 0,
+  "lease_expires_utc": "2026-11-04T14:36:40Z"
+}
