@@ -4,23 +4,26 @@
   "statement_sha256": "276959fb850f91728a31784990ac38601f708f8eaafa2f0c6fd58be736eed08e",
   "authorization_id": "log-dmodules-lemma317-audit-20261104T143127Z-authorization-v1",
   "authorization_statement_sha256": "276959fb850f91728a31784990ac38601f708f8eaafa2f0c6fd58be736eed08e",
-  "checkpoint_id": "g11-b2-leakage",
-  "checkpoint_sha256": "71114adb38862e18a46126300140a6061be3c40f193228572cee218e8aaa8c27",
-  "next_unfinished_action": "RECONCILE_PRIVATE_SUPPLEMENT",
+  "checkpoint_id": "g12-b2-hostile-recovered",
+  "checkpoint_sha256": "aa1e59752c572a9a94abea96685f6218f6fdc9ab109fc778670898772de8a9bb",
+  "next_unfinished_action": "FRESH_PROOF_BLIND_B2_RECONSTRUCTION",
   "hard_deadline_utc": null,
   "delivery_reserve_utc": null,
   "no_deadline_authorized": true,
-  "run_id": "logdmodules-root-20261104T143127Z",
-  "lease_generation": 1,
-  "status": "interrupted",
+  "status": "running",
+  "mathematics_authorized": true,
+  "stop_requested": false,
+  "supplemental_private_record": {
+    "provider": "chatgpt_pages",
+    "page_id": "page_f77d2496f5588191aeef88b5034585dc"
+  },
+  "run_id": "logdmodules-recovery-90443f70-d86e-11f1-98ed-9d474fd60692",
+  "lease_generation": 2,
   "phase": "ACTIVE_WORK",
-  "last_heartbeat_utc": "2026-11-04T16:12:44.021Z",
+  "last_heartbeat_utc": "2026-11-04T16:48:13.050Z",
   "recovery_armed": true,
   "terminal_delivery_complete": false,
   "final_status_verified": false,
   "user_stop_requested": false,
-  "supplemental_private_record": {
-    "provider": "chatgpt_pages",
-    "page_id": "page_f77d2496f5588191aeef88b5034585dc"
-  }
+  "recovery_receipt_path": "watchdog/receipts/log-dmodules-lemma317-audit-20261104T143127Z-recovery-g2.json"
 }
