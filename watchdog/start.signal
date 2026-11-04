@@ -1,5 +1,10 @@
 {
-  "signal": "NON_MATHEMATICAL_EVENT_PATH_TEST",
-  "diagnostic_id": "logdmodules-supervisor-e2e-20261104T143127Z",
-  "issued_at_utc": "2026-11-04T14:36:40Z"
+  "signal": "ARM_CURRENT_CAMPAIGN",
+  "campaign_id": "log-dmodules-lemma317-audit-20261104T143127Z",
+  "run_id": "logdmodules-root-20261104T143127Z",
+  "generation": 1,
+  "issued_at_utc": "2026-11-04T14:41:36.094Z",
+  "hard_deadline_utc": null,
+  "delivery_reserve_utc": null,
+  "no_deadline_authorized": true
 }

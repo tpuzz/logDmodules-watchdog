@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "repository": "tpuzz/logDmodules-watchdog",
-  "status": "INSTALLED_TEST_PENDING",
+  "status": "ARMED_EVENT_TEST_IN_PROGRESS",
   "basis_repository": "tpuzz/mckay-watchdog",
   "source_supervisor_blob": "913a9161d1aeab17342e096b13b97637c2d3b032",
   "stale_seconds": 2100,
@@ -15,9 +15,14 @@
   "consumer_end_to_end_verified": false,
   "fixture_id": "logdmodules-infra-fixture-v1",
   "fixture_sha256": "eed6c0d01d8e83d7121db868214979a095c51b137f84e86529e86c13ee5e5b72",
-  "test_status": "PENDING",
+  "test_status": "WORK_EVENT_STARTED_OUTCOME_PENDING",
   "no_deadline_authorized": true,
   "limitations": [
     "A configured trigger is not proof of actual Work execution."
-  ]
+  ],
+  "local_regression_tests": 36,
+  "github_test_run_id": 41849915837,
+  "github_test_run_status": "SUCCESS",
+  "diagnostic_pr_number": 1,
+  "last_verified_utc": "2026-11-04T14:41:36.094Z"
 }
