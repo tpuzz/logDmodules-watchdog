@@ -3,10 +3,11 @@
   "authorization_id": "log-dmodules-bernstein321-20261104T175314Z-authorization-v2",
   "owner_run_id": "bernstein-clarified-85167c4a-8078-42e9-a09f-77708880fe40",
   "generation": 5,
-  "status": "active",
+  "status": "released",
   "acquired_at_utc": "2026-11-04T20:06:00.359Z",
   "last_renewed_utc": "2026-11-04T20:58:31.380Z",
-  "lease_expires_utc": "2026-11-04T21:33:31.380Z",
+  "lease_expires_utc": "2026-11-04T21:03:27.640Z",
   "lease_duration_seconds": 2100,
-  "user_stop_requested": false
+  "user_stop_requested": false,
+  "released_at_utc": "2026-11-04T21:03:27.640Z"
 }
