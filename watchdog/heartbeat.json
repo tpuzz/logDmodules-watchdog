@@ -4,9 +4,9 @@
   "statement_sha256": "36f9dfb347e4fe2ffb2ff0255e944002d6a23658b39ea583c40c74e34a8144a9",
   "authorization_id": "log-dmodules-bernstein321-20261104T175314Z-authorization-v2",
   "authorization_statement_sha256": "36f9dfb347e4fe2ffb2ff0255e944002d6a23658b39ea583c40c74e34a8144a9",
-  "checkpoint_id": "g11-bernstein-v2-hostile-pass",
-  "checkpoint_sha256": "3efcc508b7d5258cc829cb7bb7fa4c984295176c5247c0ac674affcb30564cb2",
-  "next_unfinished_action": "PROOF_BLIND_RECONSTRUCTION",
+  "checkpoint_id": "g12-bernstein-v2-reconstruction-complete",
+  "checkpoint_sha256": "463b707f0faf9244e4eed01bbc845ea5cb345c1638c842760f7b19916ec0d81e",
+  "next_unfinished_action": "COMPARISON",
   "hard_deadline_utc": null,
   "delivery_reserve_utc": null,
   "no_deadline_authorized": true,
@@ -18,14 +18,14 @@
   "run_id": "bernstein-clarified-85167c4a-8078-42e9-a09f-77708880fe40",
   "lease_generation": 5,
   "phase": "VERIFICATION",
-  "last_heartbeat_utc": "2026-11-04T20:41:03.181Z",
+  "last_heartbeat_utc": "2026-11-04T20:50:27.625Z",
   "recovery_armed": true,
   "terminal_delivery_complete": false,
   "final_status_verified": false,
   "user_stop_requested": false,
   "active_assignments": [
     {
-      "assignment_id": "bernstein-reconstruction-v2",
+      "assignment_id": "bernstein-comparison-v2",
       "state": "running"
     }
   ]
