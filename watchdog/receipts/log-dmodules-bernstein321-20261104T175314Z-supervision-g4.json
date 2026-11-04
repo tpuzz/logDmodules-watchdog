@@ -14,8 +14,8 @@
   "owner_run_id": "bernstein-recovery-97299640-d87e-11f1-9156-ec74d652283a",
   "generation": 4,
   "decision_reason": "Unexpired owner",
-  "supervisor_run_id": "41883088938",
-  "supervisor_commit": "f462ce39dcc5fddd5dc0bbe399f0c5e91de3ad88",
+  "supervisor_run_id": "41889327435",
+  "supervisor_commit": "5af156825b4adecc0c3506e6e11b2ae5951071ab",
   "research_start_verified": false,
-  "observed_at_utc": "2026-11-04T18:42:09.823760+00:00"
+  "observed_at_utc": "2026-11-04T18:47:23.836474+00:00"
 }
