@@ -1,0 +1,12 @@
+{
+  "status": "PAUSED_INCOMPLETE",
+  "reason_code": "B2_COMPARISON_FAIL",
+  "campaign_id": "log-dmodules-lemma317-audit-20261104T143127Z",
+  "checkpoint_id": "g14-b2-comparison-fail",
+  "checkpoint_sha256": "849563dced42f75894bdab2988f9c4fd41c5d666e576860877d18afddfb888bd",
+  "owner_run_id": "logdmodules-recovery-90443f70-d86e-11f1-98ed-9d474fd60692",
+  "generation": 2,
+  "paused_at_utc": "2026-11-04T17:03:15.157Z",
+  "terminal_delivery_complete": false,
+  "recovery_armed": false
+}
