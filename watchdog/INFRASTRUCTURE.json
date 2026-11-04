@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "repository": "tpuzz/logDmodules-watchdog",
-  "status": "ARMED_EVENT_TEST_IN_PROGRESS",
+  "status": "ARMED_FIXTURE_VERIFIED",
   "basis_repository": "tpuzz/mckay-watchdog",
   "source_supervisor_blob": "913a9161d1aeab17342e096b13b97637c2d3b032",
   "stale_seconds": 2100,
@@ -12,17 +12,24 @@
   "recovery_prefix": "LOGDMODULES_RECOVERY",
   "test_prefix": "LOGDMODULES_RECOVERY_TEST",
   "consumer_installed": true,
-  "consumer_end_to_end_verified": false,
+  "consumer_end_to_end_verified": true,
   "fixture_id": "logdmodules-infra-fixture-v1",
   "fixture_sha256": "eed6c0d01d8e83d7121db868214979a095c51b137f84e86529e86c13ee5e5b72",
-  "test_status": "WORK_EVENT_STARTED_OUTCOME_PENDING",
+  "test_status": "EVENT_TEST_PASSED",
   "no_deadline_authorized": true,
   "limitations": [
-    "A configured trigger is not proof of actual Work execution."
+    "The bounded event fixture verifies transport and operational capabilities, not private research-source access or a production takeover.",
+    "GitHub schedule and Work event execution may be delayed; configured supervision does not guarantee recovery latency."
   ],
   "local_regression_tests": 36,
   "github_test_run_id": 41849915837,
   "github_test_run_status": "SUCCESS",
   "diagnostic_pr_number": 1,
-  "last_verified_utc": "2026-11-04T14:41:36.094Z"
+  "last_verified_utc": "2026-11-04T14:44:52.830Z",
+  "test_receipt_path": "watchdog/receipts/logdmodules-infra-fixture-v1.json",
+  "test_lease_release_verified": true,
+  "test_pr_closed": true,
+  "production_supervisor_run_id": 41850155720,
+  "production_binding_observed": true,
+  "production_recovery_takeover_verified": false
 }
