@@ -19,7 +19,7 @@ from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
 CAMPAIGN_PREFIX = "logdmodules-"
-EXACT_CAMPAIGN_IDS = frozenset({"log-dmodules-lemma317-audit-20261104T143127Z"})
+EXACT_CAMPAIGN_IDS = frozenset({"log-dmodules-lemma317-audit-20261104T143127Z", "log-dmodules-bernstein321-20261104T175314Z"})
 TERMINAL_TITLE_PREFIX = "LOGDMODULES_RECOVERY_TERMINAL"
 RECOVERY_TITLE_PREFIX = "LOGDMODULES_RECOVERY"
 INFRA_TITLE_PREFIX = "LOGDMODULES_RECOVERY_INFRA_FAILURE"
