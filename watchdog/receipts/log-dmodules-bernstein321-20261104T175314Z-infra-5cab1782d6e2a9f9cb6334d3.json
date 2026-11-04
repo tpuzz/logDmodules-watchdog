@@ -1,0 +1,20 @@
+{
+  "event_action": "opened",
+  "pull_request_number": 7,
+  "delivery_id": "d4df0c70-d88a-11f1-8724-b1550c35057e",
+  "incident_id": "5cab1782d6e2a9f9cb6334d3",
+  "campaign_id": "log-dmodules-bernstein321-20261104T175314Z",
+  "generation": 4,
+  "owner_run_id": "bernstein-recovery-97299640-d87e-11f1-9156-ec74d652283a",
+  "status": "ACKNOWLEDGEMENT_CAPABILITY_FAILURE",
+  "missing_capability": "SUPERVISOR_DID_NOT_ACKNOWLEDGE_EXISTING_WORK_START_RECEIPT",
+  "existing_work_start_receipt_path": "watchdog/receipts/log-dmodules-bernstein321-20261104T175314Z-recovery-g4.json",
+  "existing_receipt_status": "RESEARCH_STARTED",
+  "supervision_receipt_path": "watchdog/receipts/log-dmodules-bernstein321-20261104T175314Z-supervision-g4.json",
+  "supervision_research_start_verified": false,
+  "retry_attempts_observed": 3,
+  "no_research_launched": true,
+  "no_recursive_recovery_signal_emitted": true,
+  "deduplicated": true,
+  "recorded_at_utc": "2026-11-04T20:05:07.234Z"
+}
