@@ -1,0 +1,10 @@
+{
+  "campaign_id": "log-dmodules-bernstein321-20261104T175314Z",
+  "run_id": "bernstein-216a4006-0b3d-4230-b6ed-2871ce8aea20",
+  "lease_generation": 3,
+  "incident_id": "0e0401730ba330c74c4ad543",
+  "recovery_mode": "verify_private_authorization",
+  "reason": "Expired lease and stale or interrupted execution",
+  "snapshot_commit": "92d3410734a206bc5fce8b73438431e498de744b",
+  "attempt": 1
+}
