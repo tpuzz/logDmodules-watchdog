@@ -4,13 +4,13 @@
   "statement_sha256": "7f12761aed5db327f81d42ded8760426ca26b3932323b9a59c377b5b249a2664",
   "authorization_id": "log-dmodules-bernstein321-20261104T175314Z-authorization-v1",
   "authorization_statement_sha256": "7f12761aed5db327f81d42ded8760426ca26b3932323b9a59c377b5b249a2664",
-  "checkpoint_id": "g02-componentwise-mechanism",
-  "checkpoint_sha256": "568132310ff85a1559863050f64bc7dff690bb2ca03352ff3f4e048873b85e10",
-  "next_unfinished_action": "COMPARE_CANDIDATE_V3",
+  "checkpoint_id": "g03-formulation-obstruction",
+  "checkpoint_sha256": "1a5b8134ef0518483ed674e02768dbbb1659151af036ed7551a2387a4ea8611e",
+  "next_unfinished_action": "AWAIT_USER_SCOPE_DECISION",
   "hard_deadline_utc": null,
   "delivery_reserve_utc": null,
   "no_deadline_authorized": true,
-  "status": "running",
+  "status": "blocked",
   "mathematics_authorized": true,
   "stop_requested": false,
   "resume_authorized": true,
@@ -18,13 +18,11 @@
   "run_id": "bernstein-recovery-97299640-d87e-11f1-9156-ec74d652283a",
   "lease_generation": 4,
   "phase": "VERIFICATION",
-  "last_heartbeat_utc": "2026-11-04T19:05:18.942Z",
+  "last_heartbeat_utc": "2026-11-04T19:09:20.714Z",
   "recovery_armed": true,
   "terminal_delivery_complete": false,
   "final_status_verified": false,
   "user_stop_requested": false,
-  "active_assignments": [
-    "comparison_candidate_v3"
-  ],
+  "active_assignments": [],
   "recovery_receipt_path": "watchdog/receipts/log-dmodules-bernstein321-20261104T175314Z-recovery-g4.json"
 }
