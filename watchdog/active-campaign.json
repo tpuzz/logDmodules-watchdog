@@ -6,11 +6,15 @@
   "authorization_statement_sha256": "276959fb850f91728a31784990ac38601f708f8eaafa2f0c6fd58be736eed08e",
   "checkpoint_id": "g11-b2-leakage",
   "checkpoint_sha256": "71114adb38862e18a46126300140a6061be3c40f193228572cee218e8aaa8c27",
-  "next_unfinished_action": "RESUME_SAVED_FRONTIER",
+  "next_unfinished_action": "RECONCILE_PRIVATE_SUPPLEMENT",
   "hard_deadline_utc": null,
   "delivery_reserve_utc": null,
   "no_deadline_authorized": true,
   "status": "CONFIRMED",
   "mathematics_authorized": true,
-  "stop_requested": false
+  "stop_requested": false,
+  "supplemental_private_record": {
+    "provider": "chatgpt_pages",
+    "page_id": "page_f77d2496f5588191aeef88b5034585dc"
+  }
 }

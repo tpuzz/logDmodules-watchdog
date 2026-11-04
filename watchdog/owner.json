@@ -3,10 +3,11 @@
   "authorization_id": "log-dmodules-lemma317-audit-20261104T143127Z-authorization-v1",
   "owner_run_id": "logdmodules-root-20261104T143127Z",
   "generation": 1,
-  "status": "active",
+  "status": "released",
   "acquired_at_utc": "2026-11-04T14:36:40Z",
-  "last_renewed_utc": "2026-11-04T15:54:15.549Z",
-  "lease_expires_utc": "2026-11-04T16:29:15.549Z",
+  "last_renewed_utc": "2026-11-04T16:12:44.021Z",
+  "lease_expires_utc": "2026-11-04T16:12:44.021Z",
   "lease_duration_seconds": 2100,
-  "user_stop_requested": false
+  "user_stop_requested": false,
+  "released_at_utc": "2026-11-04T16:12:44.021Z"
 }
