@@ -1,0 +1,10 @@
+{
+  "campaign_id": "log-dmodules-lemma317-audit-20261104T143127Z",
+  "run_id": "logdmodules-root-20261104T143127Z",
+  "lease_generation": 1,
+  "incident_id": "aae93c1179fbb8471a8b4f71",
+  "recovery_mode": "verify_private_authorization",
+  "reason": "Expired lease and stale or interrupted execution",
+  "snapshot_commit": "32156c628cf3c4412a91ff0115c254ee27e54f78",
+  "attempt": 1
+}
