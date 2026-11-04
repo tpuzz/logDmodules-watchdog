@@ -4,9 +4,9 @@
   "statement_sha256": "36f9dfb347e4fe2ffb2ff0255e944002d6a23658b39ea583c40c74e34a8144a9",
   "authorization_id": "log-dmodules-bernstein321-20261104T175314Z-authorization-v2",
   "authorization_statement_sha256": "36f9dfb347e4fe2ffb2ff0255e944002d6a23658b39ea583c40c74e34a8144a9",
-  "checkpoint_id": "g05-bernstein-v1-frozen",
-  "checkpoint_sha256": "09f2e7c0f3bb59a2a5dd37b1c317fcc80cb99843c30a6f6569df0841ef8a72a9",
-  "next_unfinished_action": "LEAKAGE_CHECK",
+  "checkpoint_id": "g07-hostile-protocol-replacement",
+  "checkpoint_sha256": "636969568b35ab715e5f04c9158df275a7314e75cd0a3d0d433266304d0e4b2d",
+  "next_unfinished_action": "HOSTILE_AUDIT",
   "hard_deadline_utc": null,
   "delivery_reserve_utc": null,
   "no_deadline_authorized": true,
@@ -17,5 +17,5 @@
   "supervisor_run_id": "41903369117",
   "supervisor_commit": "91f5ae70a5550306783eb95513c6d2c315c8b897",
   "research_start_verified": false,
-  "observed_at_utc": "2026-11-04T20:14:32.637449+00:00"
+  "observed_at_utc": "2026-11-04T20:21:39.106353+00:00"
 }
