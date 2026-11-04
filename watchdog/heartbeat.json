@@ -4,9 +4,9 @@
   "statement_sha256": "7f12761aed5db327f81d42ded8760426ca26b3932323b9a59c377b5b249a2664",
   "authorization_id": "log-dmodules-bernstein321-20261104T175314Z-authorization-v1",
   "authorization_statement_sha256": "7f12761aed5db327f81d42ded8760426ca26b3932323b9a59c377b5b249a2664",
-  "checkpoint_id": "g01-sources-and-portfolio",
-  "checkpoint_sha256": "595257ab011acb7a6b6bfaf3e849a96bd9a5dbefca8214e2c1d30ca32f0d7c87",
-  "next_unfinished_action": "RESEARCH_SEARCH",
+  "checkpoint_id": "g02-componentwise-mechanism",
+  "checkpoint_sha256": "568132310ff85a1559863050f64bc7dff690bb2ca03352ff3f4e048873b85e10",
+  "next_unfinished_action": "RECONCILE_INTERRUPTED_AW2_CW1",
   "hard_deadline_utc": null,
   "delivery_reserve_utc": null,
   "no_deadline_authorized": true,
@@ -15,13 +15,17 @@
   "stop_requested": false,
   "resume_authorized": true,
   "statement_confirmed": true,
-  "run_id": "bernstein-216a4006-0b3d-4230-b6ed-2871ce8aea20",
-  "lease_generation": 3,
+  "run_id": "bernstein-recovery-97299640-d87e-11f1-9156-ec74d652283a",
+  "lease_generation": 4,
   "phase": "RESEARCH_SEARCH",
-  "last_heartbeat_utc": "2026-11-04T18:00:29.425Z",
+  "last_heartbeat_utc": "2026-11-04T18:40:01.018Z",
   "recovery_armed": true,
   "terminal_delivery_complete": false,
   "final_status_verified": false,
   "user_stop_requested": false,
-  "active_assignments": []
+  "active_assignments": [
+    "route_a_w2",
+    "route_c_w1"
+  ],
+  "recovery_receipt_path": "watchdog/receipts/log-dmodules-bernstein321-20261104T175314Z-recovery-g4.json"
 }
