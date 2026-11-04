@@ -1,18 +1,18 @@
 {
-  "campaign_id": "log-dmodules-bernstein321-20261104T175314Z",
-  "statement_version": "STATEMENT-v2",
-  "statement_sha256": "36f9dfb347e4fe2ffb2ff0255e944002d6a23658b39ea583c40c74e34a8144a9",
-  "authorization_id": "log-dmodules-bernstein321-20261104T175314Z-authorization-v2",
-  "authorization_statement_sha256": "36f9dfb347e4fe2ffb2ff0255e944002d6a23658b39ea583c40c74e34a8144a9",
-  "checkpoint_id": "g15-completed-delivered",
-  "checkpoint_sha256": "8202701c033ee9765380980806694d0349f44000005d7b6e571027f549d52123",
-  "next_unfinished_action": "NONE",
+  "campaign_id": "log-dmodules-prop324-20261104T225254Z",
+  "statement_version": "STATEMENT-v1",
+  "statement_sha256": "8863246bff8e8e1e813a541e3b8adcd5c75fdde8e210582b2006bc0361c0be6b",
+  "authorization_id": "log-dmodules-prop324-20261104T225254Z-authorization-v1",
+  "authorization_statement_sha256": "8863246bff8e8e1e813a541e3b8adcd5c75fdde8e210582b2006bc0361c0be6b",
+  "checkpoint_id": "g00-initialization",
+  "checkpoint_sha256": "5546a6e6ab94278ac7b5eb4d109cb4b3a31d38a2efa119e626f844cc7ed0c486",
+  "next_unfinished_action": "SOURCE_CONVENTIONS_AND_SEARCH",
   "hard_deadline_utc": null,
   "delivery_reserve_utc": null,
   "no_deadline_authorized": true,
-  "status": "TERMINAL",
   "mathematics_authorized": true,
   "stop_requested": false,
   "resume_authorized": true,
-  "statement_confirmed": true
+  "statement_confirmed": true,
+  "status": "CONFIRMED"
 }
