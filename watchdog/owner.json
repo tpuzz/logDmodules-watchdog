@@ -5,8 +5,8 @@
   "generation": 5,
   "status": "active",
   "acquired_at_utc": "2026-11-04T20:06:00.359Z",
-  "last_renewed_utc": "2026-11-04T20:21:08.455Z",
-  "lease_expires_utc": "2026-11-04T20:56:08.455Z",
+  "last_renewed_utc": "2026-11-04T20:30:49.079Z",
+  "lease_expires_utc": "2026-11-04T21:05:49.079Z",
   "lease_duration_seconds": 2100,
   "user_stop_requested": false
 }
