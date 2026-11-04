@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "fixture_id": "logdmodules-infra-fixture-v1",
+  "classification": "NON_MATHEMATICAL_FIXTURE",
+  "test_only": true,
+  "mathematics_authorized": false,
+  "status": "EVENT_TEST_PASSED",
+  "repository": "tpuzz/logDmodules-watchdog",
+  "event_action": "opened",
+  "pull_request_number": 1,
+  "event_delivery_id": "b56a0b60-d85d-11f1-9330-5c892d8cdbb7",
+  "observed_execution_id": "01a1a701-7f53-76dc-ba9f-fa4af9cef0db",
+  "fixture_sha256": "eed6c0d01d8e83d7121db868214979a095c51b137f84e86529e86c13ee5e5b72",
+  "conditional_claim_succeeded": true,
+  "claim_readback_verified": true,
+  "filesystem_raw_byte_hash_verified": true,
+  "conditional_persistence_verified": true,
+  "release_succeeded": true,
+  "release_readback_verified": true,
+  "completed_at_utc": "2026-11-04T14:43:33Z"
+}
