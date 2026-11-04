@@ -4,9 +4,9 @@
   "statement_sha256": "36f9dfb347e4fe2ffb2ff0255e944002d6a23658b39ea583c40c74e34a8144a9",
   "authorization_id": "log-dmodules-bernstein321-20261104T175314Z-authorization-v2",
   "authorization_statement_sha256": "36f9dfb347e4fe2ffb2ff0255e944002d6a23658b39ea583c40c74e34a8144a9",
-  "checkpoint_id": "g07-hostile-protocol-replacement",
-  "checkpoint_sha256": "636969568b35ab715e5f04c9158df275a7314e75cd0a3d0d433266304d0e4b2d",
-  "next_unfinished_action": "HOSTILE_AUDIT",
+  "checkpoint_id": "g09-v1-reconciled-v2-gates-next",
+  "checkpoint_sha256": "86e459a9729da87a2e564bd3e7d89a06c18ef7e193ff3ff2d85f05d587f8b185",
+  "next_unfinished_action": "LEAKAGE_CHECK",
   "hard_deadline_utc": null,
   "delivery_reserve_utc": null,
   "no_deadline_authorized": true,
@@ -14,8 +14,8 @@
   "owner_run_id": "bernstein-clarified-85167c4a-8078-42e9-a09f-77708880fe40",
   "generation": 5,
   "decision_reason": "Unexpired owner",
-  "supervisor_run_id": "41903369117",
-  "supervisor_commit": "91f5ae70a5550306783eb95513c6d2c315c8b897",
+  "supervisor_run_id": "41908509928",
+  "supervisor_commit": "6a0be88c15efdd0415dc1bfb97a9ccf5d680d521",
   "research_start_verified": false,
-  "observed_at_utc": "2026-11-04T20:21:39.106353+00:00"
+  "observed_at_utc": "2026-11-04T20:38:29.554117+00:00"
 }
