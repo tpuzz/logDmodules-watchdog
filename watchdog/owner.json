@@ -1,13 +1,13 @@
 {
   "campaign_id": "log-dmodules-lemma317-audit-20261104T143127Z",
   "authorization_id": "log-dmodules-lemma317-audit-20261104T143127Z-authorization-v1",
-  "owner_run_id": "logdmodules-root-20261104T143127Z",
-  "generation": 1,
-  "status": "released",
-  "acquired_at_utc": "2026-11-04T14:36:40Z",
-  "last_renewed_utc": "2026-11-04T16:12:44.021Z",
-  "lease_expires_utc": "2026-11-04T16:12:44.021Z",
+  "owner_run_id": "logdmodules-recovery-90443f70-d86e-11f1-98ed-9d474fd60692",
+  "generation": 2,
+  "status": "active",
+  "acquired_at_utc": "2026-11-04T16:44:03.648Z",
+  "last_renewed_utc": "2026-11-04T16:44:03.648Z",
+  "lease_expires_utc": "2026-11-04T17:19:03.649Z",
   "lease_duration_seconds": 2100,
   "user_stop_requested": false,
-  "released_at_utc": "2026-11-04T16:12:44.021Z"
+  "released_at_utc": null
 }
