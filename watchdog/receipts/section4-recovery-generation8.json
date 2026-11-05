@@ -1,0 +1,10 @@
+{
+  "campaign_id": "log-dmodules-thm46-cor412-20261105T001932Z",
+  "owner_run_id": "thm46-cor412-d8346584ca08",
+  "generation": 8,
+  "observed_at_utc": "2026-11-05T08:17:42.110Z",
+  "status": "WORK_STARTED",
+  "checkpoint_id": "g07-hostile-recovered",
+  "statement_sha256": "c27a678a5de34a7bfbc9fefc082a5958152546c153202fc41890b7cbc9a7d84f",
+  "private_bootstrap_persisted": true
+}
