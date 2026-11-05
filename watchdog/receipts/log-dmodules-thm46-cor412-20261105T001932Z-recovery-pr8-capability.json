@@ -1,11 +1,17 @@
 {
   "schema_version": "1",
   "campaign_id": "log-dmodules-thm46-cor412-20261105T001932Z",
-  "incident_id": "72334cb0-d8b9-11f1-956a-5226b52d9134",
-  "event": {
+  "incident_id": "83b5de4ef95ea0e03ee37b08",
+  "first_event": {
     "action": "opened",
     "pull_request_number": 8,
     "delivery_id": "72334cb0-d8b9-11f1-956a-5226b52d9134"
+  },
+  "latest_event": {
+    "action": "opened",
+    "pull_request_number": 9,
+    "delivery_id": "4fa228a0-d8ba-11f1-8de9-44cd6da9a76d",
+    "attempt": 2
   },
   "status": "CAPABILITY_FAILURE",
   "capability": "completed_gate_artifact_retrieval",
@@ -19,5 +25,7 @@
   "work_started": false,
   "research_started": false,
   "no_deadline_authorized": true,
-  "recorded_at_utc": "2026-11-05T01:41:24Z"
+  "deduplicated": true,
+  "first_recorded_at_utc": "2026-11-05T01:41:24Z",
+  "last_observed_at_utc": "2026-11-05T01:44:48Z"
 }
