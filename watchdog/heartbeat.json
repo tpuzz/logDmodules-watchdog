@@ -4,9 +4,9 @@
   "statement_sha256": "c27a678a5de34a7bfbc9fefc082a5958152546c153202fc41890b7cbc9a7d84f",
   "authorization_id": "log-dmodules-thm46-cor412-20261105T001932Z-authorization-v1",
   "authorization_statement_sha256": "c27a678a5de34a7bfbc9fefc082a5958152546c153202fc41890b7cbc9a7d84f",
-  "checkpoint_id": "g00-initialization",
-  "checkpoint_sha256": "21230c6ebbdabc43b08e3fceb9ab11142a3ee5ef5b83f54c54892a350f295098",
-  "next_unfinished_action": "section4_source_decomposition",
+  "checkpoint_id": "g01-first-wave",
+  "checkpoint_sha256": "0b1641fc3a4875cb6f9770ed3012a67ffc8467a5c56ad0dfc72032627dd82b88",
+  "next_unfinished_action": "section4_second_wave",
   "hard_deadline_utc": null,
   "delivery_reserve_utc": null,
   "no_deadline_authorized": true,
@@ -17,12 +17,15 @@
   "status": "running",
   "run_id": "thm46-cor412-9182f08a8adc",
   "lease_generation": 7,
-  "phase": "INITIALIZED",
-  "last_heartbeat_utc": "2026-11-05T00:21:21.461Z",
+  "phase": "SECOND_WAVE",
+  "last_heartbeat_utc": "2026-11-05T00:33:05.901Z",
   "recovery_armed": true,
   "terminal_delivery_complete": false,
   "final_status_verified": false,
   "user_stop_requested": false,
-  "active_assignments": [],
+  "active_assignments": [
+    "necessary-halves-wave2",
+    "direct-wave2"
+  ],
   "recovery_mode": "direct_resume"
 }
