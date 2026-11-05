@@ -1,21 +1,21 @@
 # Log D Modules workflow status
 
-_Generated from public watchdog coordination state at 2026-11-05T10:32:34.200096Z._
+_Generated from public watchdog coordination state at 2026-11-05T10:45:18.404462Z._
 
 | Field | Status |
 | --- | --- |
 | Campaign | log-dmodules-section5-filtrations-20261105T100929Z |
-| Execution | Active |
-| Current gate | Proof-blind reconstruction |
-| Next gate | Proof-blind reconstruction |
-| Checkpoint | g03-hostile-pass |
+| Execution | Completed |
+| Current gate | Active work |
+| Next gate | Active work |
+| Checkpoint | g06-promoted-delivery-ready |
 | Generation | 9 |
 | Lease | Active |
-| Active assignments | 1 |
-| Recovery | Armed |
-| Last heartbeat (UTC) | 2026-11-05T10:31:56.996Z |
+| Active assignments | 0 |
+| Recovery | Not armed |
+| Last heartbeat (UTC) | 2026-11-05T10:45:01.935Z |
 | Lease expires (UTC) | 2026-11-05T11:06:56.996Z |
-| Terminal delivery complete | No |
+| Terminal delivery complete | Yes |
 
 > This page intentionally contains only non-mathematical coordination metadata. It does not publish research prompts, candidate statements, proofs, audits, private paths, source documents, or mathematical results.
 
