@@ -1,21 +1,21 @@
 # Log D Modules workflow status
 
-_Generated from public watchdog coordination state at 2026-11-05T08:56:16.628074Z._
+_Generated from public watchdog coordination state at 2026-11-05T08:58:23.126846Z._
 
 | Field | Status |
 | --- | --- |
 | Campaign | log-dmodules-thm46-cor412-20261105T001932Z |
-| Execution | Active |
-| Current gate | Final reconciliation / delivery |
-| Next gate | Final reconciliation / delivery |
-| Checkpoint | g09-comparison-pass |
+| Execution | Completed |
+| Current gate | Active work |
+| Next gate | Active work |
+| Checkpoint | g10-promoted-report-delivered |
 | Generation | 8 |
-| Lease | Active |
+| Lease | Released |
 | Active assignments | 0 |
-| Recovery | Armed |
-| Last heartbeat (UTC) | 2026-11-05T08:55:35.856Z |
-| Lease expires (UTC) | 2026-11-05T09:30:35.856Z |
-| Terminal delivery complete | No |
+| Recovery | Not armed |
+| Last heartbeat (UTC) | 2026-11-05T08:57:53.224Z |
+| Lease expires (UTC) | 2026-11-05T08:57:53.224Z |
+| Terminal delivery complete | Yes |
 
 > This page intentionally contains only non-mathematical coordination metadata. It does not publish research prompts, candidate statements, proofs, audits, private paths, source documents, or mathematical results.
 
