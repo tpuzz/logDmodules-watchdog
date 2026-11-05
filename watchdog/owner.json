@@ -1,14 +1,12 @@
 {
-  "campaign_id": "log-dmodules-prop324-20261104T225254Z",
-  "authorization_id": "log-dmodules-prop324-20261104T225254Z-authorization-v1",
-  "owner_run_id": "prop324-9182f08a8adc",
-  "generation": 6,
-  "status": "released",
-  "acquired_at_utc": "2026-11-04T22:55:35.211Z",
-  "last_renewed_utc": "2026-11-04T23:52:11.738Z",
-  "lease_expires_utc": "2026-11-04T23:56:58.697Z",
+  "campaign_id": "log-dmodules-thm46-cor412-20261105T001932Z",
+  "authorization_id": "log-dmodules-thm46-cor412-20261105T001932Z-authorization-v1",
+  "owner_run_id": "thm46-cor412-9182f08a8adc",
+  "generation": 7,
+  "status": "active",
+  "acquired_at_utc": "2026-11-05T00:21:21.461Z",
+  "last_renewed_utc": "2026-11-05T00:21:21.461Z",
+  "lease_expires_utc": "2026-11-05T00:56:21.461Z",
   "lease_duration_seconds": 2100,
-  "user_stop_requested": false,
-  "released_at_utc": "2026-11-04T23:56:58.697Z",
-  "release_reason": "completed_and_delivered"
+  "user_stop_requested": false
 }
