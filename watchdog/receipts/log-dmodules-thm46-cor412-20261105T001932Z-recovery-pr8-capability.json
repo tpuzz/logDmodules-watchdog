@@ -1,0 +1,23 @@
+{
+  "schema_version": "1",
+  "campaign_id": "log-dmodules-thm46-cor412-20261105T001932Z",
+  "incident_id": "72334cb0-d8b9-11f1-956a-5226b52d9134",
+  "event": {
+    "action": "opened",
+    "pull_request_number": 8,
+    "delivery_id": "72334cb0-d8b9-11f1-956a-5226b52d9134"
+  },
+  "status": "CAPABILITY_FAILURE",
+  "capability": "completed_gate_artifact_retrieval",
+  "limitation": "Newest private durable checkpoint bytes were verified, but the later completed gate output was absent and the prior execution context was not addressable; the exact gate record could not be restored.",
+  "checkpoint_id": "g06-leakage-pass",
+  "checkpoint_sha256": "9be4cb188116e8bed62c439fff825a26c000e5f1e4482e01a5ba37482d9c832a",
+  "source_bytes_verified": true,
+  "objective_hash_verified": true,
+  "authorization_verified": true,
+  "ownership_claimed": false,
+  "work_started": false,
+  "research_started": false,
+  "no_deadline_authorized": true,
+  "recorded_at_utc": "2026-11-05T01:41:24Z"
+}
