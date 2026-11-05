@@ -1,0 +1,9 @@
+{
+  "campaign_id": "log-dmodules-thm46-cor412-20261105T001932Z",
+  "run_id": "thm46-cor412-9182f08a8adc",
+  "lease_generation": 7,
+  "incident_id": "83b5de4ef95ea0e03ee37b08",
+  "attempts": 3,
+  "reason": "Recovery wake-ups were not acknowledged",
+  "snapshot_commit": "4c5ef244bf90767113cffca0129f664060ad3497"
+}
