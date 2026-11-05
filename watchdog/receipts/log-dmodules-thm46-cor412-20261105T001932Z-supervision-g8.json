@@ -4,8 +4,8 @@
   "statement_sha256": "c27a678a5de34a7bfbc9fefc082a5958152546c153202fc41890b7cbc9a7d84f",
   "authorization_id": "log-dmodules-thm46-cor412-20261105T001932Z-authorization-v1",
   "authorization_statement_sha256": "c27a678a5de34a7bfbc9fefc082a5958152546c153202fc41890b7cbc9a7d84f",
-  "checkpoint_id": "g06-leakage-pass",
-  "checkpoint_sha256": "9be4cb188116e8bed62c439fff825a26c000e5f1e4482e01a5ba37482d9c832a",
+  "checkpoint_id": "g07-hostile-recovered",
+  "checkpoint_sha256": "e695cb9e339f62ba1a5a3b28d97f7bc82f24a14fad105c65bc88125cc69b442b",
   "next_unfinished_action": "section4_proof_blind_reconstruction",
   "hard_deadline_utc": null,
   "delivery_reserve_utc": null,
@@ -17,5 +17,5 @@
   "supervisor_run_id": "41992027886",
   "supervisor_commit": "ed57b24dd11972b0d5177cced078e0899da5f634",
   "research_start_verified": false,
-  "observed_at_utc": "2026-11-05T08:16:20.261142+00:00"
+  "observed_at_utc": "2026-11-05T08:18:22.925952+00:00"
 }
