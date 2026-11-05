@@ -1,6 +1,6 @@
 # Log D Modules workflow status
 
-_Generated from public watchdog coordination state at 2026-11-05T10:45:18.404462Z._
+_Generated from public watchdog coordination state at 2026-11-05T10:45:25.990497Z._
 
 | Field | Status |
 | --- | --- |
@@ -10,11 +10,11 @@ _Generated from public watchdog coordination state at 2026-11-05T10:45:18.404462
 | Next gate | Active work |
 | Checkpoint | g06-promoted-delivery-ready |
 | Generation | 9 |
-| Lease | Active |
+| Lease | Released |
 | Active assignments | 0 |
 | Recovery | Not armed |
 | Last heartbeat (UTC) | 2026-11-05T10:45:01.935Z |
-| Lease expires (UTC) | 2026-11-05T11:06:56.996Z |
+| Lease expires (UTC) | 2026-11-05T10:45:01.935Z |
 | Terminal delivery complete | Yes |
 
 > This page intentionally contains only non-mathematical coordination metadata. It does not publish research prompts, candidate statements, proofs, audits, private paths, source documents, or mathematical results.
