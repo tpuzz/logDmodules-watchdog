@@ -18,7 +18,7 @@
   "run_id": "thm46-cor412-d8346584ca08",
   "lease_generation": 8,
   "phase": "PROOF_BLIND_RECONSTRUCTION",
-  "last_heartbeat_utc": "2026-11-05T08:17:42.110Z",
+  "last_heartbeat_utc": "2026-11-05T08:27:15.094Z",
   "recovery_armed": true,
   "terminal_delivery_complete": false,
   "final_status_verified": false,
