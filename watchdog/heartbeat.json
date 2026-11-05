@@ -4,9 +4,9 @@
   "statement_sha256": "973a8e959ce14d541f78e56e5e9a36d7aea717a65eda73d7cc891ff0a8e309a9",
   "authorization_id": "log-dmodules-section5-filtrations-20261105T100929Z-authorization-v1",
   "authorization_statement_sha256": "973a8e959ce14d541f78e56e5e9a36d7aea717a65eda73d7cc891ff0a8e309a9",
-  "checkpoint_id": "g00-initialization",
-  "checkpoint_sha256": "b59bdf118284f73c2936e1b3564584dc97a650b2f03626efd9a8ea24c08133fe",
-  "next_unfinished_action": "recover_inputs_and_form_candidate",
+  "checkpoint_id": "g01-candidate-frozen",
+  "checkpoint_sha256": "6f3a098ccea7389434576abd5552ce85c070e5b0096e786007354eca778fe637",
+  "next_unfinished_action": "leakage_check",
   "hard_deadline_utc": null,
   "delivery_reserve_utc": null,
   "no_deadline_authorized": true,
@@ -18,11 +18,13 @@
   "recovery_mode": "direct_resume",
   "run_id": "log-dmodules-section5-filtrations-20261105T100929Z-root-g9",
   "lease_generation": 9,
-  "phase": "INITIALIZATION",
-  "last_heartbeat_utc": "2026-11-05T10:12:32.194Z",
+  "phase": "VERIFICATION",
+  "last_heartbeat_utc": "2026-11-05T10:23:44.764Z",
   "recovery_armed": true,
   "terminal_delivery_complete": false,
   "final_status_verified": false,
   "user_stop_requested": false,
-  "active_assignments": []
+  "active_assignments": [
+    "leakage-v1"
+  ]
 }
