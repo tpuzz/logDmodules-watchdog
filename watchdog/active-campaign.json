@@ -6,7 +6,7 @@
   "authorization_statement_sha256": "c27a678a5de34a7bfbc9fefc082a5958152546c153202fc41890b7cbc9a7d84f",
   "checkpoint_id": "g06-leakage-pass",
   "checkpoint_sha256": "9be4cb188116e8bed62c439fff825a26c000e5f1e4482e01a5ba37482d9c832a",
-  "next_unfinished_action": "section4_restore_hostile_receipt_then_proof_blind_reconstruction",
+  "next_unfinished_action": "section4_proof_blind_reconstruction",
   "hard_deadline_utc": null,
   "delivery_reserve_utc": null,
   "no_deadline_authorized": true,
