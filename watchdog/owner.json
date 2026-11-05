@@ -3,10 +3,12 @@
   "authorization_id": "log-dmodules-thm46-cor412-20261105T001932Z-authorization-v1",
   "owner_run_id": "thm46-cor412-9182f08a8adc",
   "generation": 7,
-  "status": "active",
+  "status": "released",
   "acquired_at_utc": "2026-11-05T00:21:21.461Z",
   "last_renewed_utc": "2026-11-05T00:59:16.474Z",
-  "lease_expires_utc": "2026-11-05T01:34:16.474Z",
+  "lease_expires_utc": "2026-11-05T01:17:55.407Z",
   "lease_duration_seconds": 2100,
-  "user_stop_requested": false
+  "user_stop_requested": false,
+  "released_at_utc": "2026-11-05T01:17:55.407Z",
+  "release_reason": "coordinator_environment_unavailable"
 }
