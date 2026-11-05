@@ -1,7 +1,7 @@
 {
-  "campaign_id": "log-dmodules-thm46-cor412-20261105T001932Z",
-  "run_id": "thm46-cor412-9182f08a8adc",
-  "generation": 7,
-  "updated_at_utc": "2026-11-05T00:21:21.461Z",
+  "campaign_id": "log-dmodules-section5-filtrations-20261105T100929Z",
+  "run_id": "log-dmodules-section5-filtrations-20261105T100929Z-root-g9",
+  "generation": 9,
+  "updated_at_utc": "2026-11-05T10:12:32.196Z",
   "reason": "new_confirmed_campaign"
 }
