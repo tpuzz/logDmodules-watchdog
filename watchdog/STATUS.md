@@ -1,22 +1,9 @@
-# Log D Modules workflow status
+# Campaign status
 
-_Generated from public watchdog coordination state at 2026-11-05T08:27:42.167090Z._
+Campaign: log-dmodules-thm46-cor412-20261105T001932Z
 
-| Field | Status |
-| --- | --- |
-| Campaign | log-dmodules-thm46-cor412-20261105T001932Z |
-| Execution | Active |
-| Current gate | Proof-blind reconstruction |
-| Next gate | Proof-blind reconstruction |
-| Checkpoint | g07-hostile-recovered |
-| Generation | 8 |
-| Lease | Active |
-| Active assignments | 1 |
-| Recovery | Armed |
-| Last heartbeat (UTC) | 2026-11-05T08:27:15.094Z |
-| Lease expires (UTC) | 2026-11-05T09:02:15.094Z |
-| Terminal delivery complete | No |
+Running, generation 8; phase COMPARISON_IN_PROGRESS. Recovery armed.
 
-> This page intentionally contains only non-mathematical coordination metadata. It does not publish research prompts, candidate statements, proofs, audits, private paths, source documents, or mathematical results.
+Checkpoint: g08-reconstruction-complete; last heartbeat 2026-11-05T08:36:44.303Z.
 
-The file is regenerated automatically when the public heartbeat, ownership, or active-campaign binding changes.
+Private state remains authoritative for mathematics. No successor authorized.
