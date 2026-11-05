@@ -9,23 +9,27 @@
   },
   "latest_event": {
     "action": "opened",
-    "pull_request_number": 9,
-    "delivery_id": "4fa228a0-d8ba-11f1-8de9-44cd6da9a76d",
-    "attempt": 2
+    "pull_request_number": 11,
+    "delivery_id": "08669d70-d8bc-11f1-9136-5bba4a657980",
+    "event_kind": "LOGDMODULES_RECOVERY_INFRA_FAILURE",
+    "attempts": 3
   },
   "status": "CAPABILITY_FAILURE",
-  "capability": "completed_gate_artifact_retrieval",
-  "limitation": "Newest private durable checkpoint bytes were verified, but the later completed gate output was absent and the prior execution context was not addressable; the exact gate record could not be restored.",
+  "capability": "work_start_launch_acknowledgement",
+  "root_cause": "completed_gate_artifact_retrieval_unavailable",
+  "limitation": "A bound genuine Work-start receipt cannot be emitted or acknowledged because the required completed gate record is absent from the newest private durable checkpoint and the prior execution context is not addressable.",
   "checkpoint_id": "g06-leakage-pass",
   "checkpoint_sha256": "9be4cb188116e8bed62c439fff825a26c000e5f1e4482e01a5ba37482d9c832a",
   "source_bytes_verified": true,
   "objective_hash_verified": true,
   "authorization_verified": true,
   "ownership_claimed": false,
-  "work_started": false,
+  "work_start_receipt_emitted": false,
+  "supervisor_acknowledged": false,
   "research_started": false,
   "no_deadline_authorized": true,
   "deduplicated": true,
+  "recursive_recovery_signal_emitted": false,
   "first_recorded_at_utc": "2026-11-05T01:41:24Z",
-  "last_observed_at_utc": "2026-11-05T01:44:48Z"
+  "last_observed_at_utc": "2026-11-05T01:56:32Z"
 }
