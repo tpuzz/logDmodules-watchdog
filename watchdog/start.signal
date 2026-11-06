@@ -1,7 +1,7 @@
 {
   "campaign_id": "log-dmodules-absolute-rank-section4-20261106T130633Z",
-  "run_id": "log-dmodules-absolute-rank-section4-20261106T130633Z-root-g10",
-  "generation": 10,
-  "updated_at_utc": "2026-11-06T14:10:17.869Z",
-  "reason": "infrastructure_interruption"
+  "run_id": "log-dmodules-absolute-rank-section4-20261106T130633Z-root-g11",
+  "generation": 11,
+  "updated_at_utc": "2026-11-06T21:08:11.135Z",
+  "reason": "direct_resume_same_campaign"
 }
