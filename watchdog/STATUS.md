@@ -1,19 +1,19 @@
 # Log D Modules workflow status
 
-_Generated from public watchdog coordination state at 2026-11-06T20:58:03.055210Z._
+_Generated from public watchdog coordination state at 2026-11-06T21:05:48.714341Z._
 
 | Field | Status |
 | --- | --- |
 | Campaign | log-dmodules-absolute-rank-section4-20261106T130633Z |
 | Execution | Active |
-| Current gate | Comparison |
-| Next gate | Comparison |
-| Checkpoint | g08-reconstruction-complete |
+| Current gate | Proof-blind reconstruction |
+| Next gate | Proof-blind reconstruction |
+| Checkpoint | g09-protocol-only-reconstruction-replacement |
 | Generation | 11 |
 | Lease | Active |
 | Active assignments | 1 |
 | Recovery | Armed |
-| Last heartbeat (UTC) | 2026-11-06T20:57:38.625Z |
+| Last heartbeat (UTC) | 2026-11-06T21:05:32.575Z |
 | Lease expires (UTC) | 2026-11-06T21:31:43.681Z |
 | Terminal delivery complete | No |
 
