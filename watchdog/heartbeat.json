@@ -4,9 +4,9 @@
   "statement_sha256": "23e86ed23fdd02b8be4d7d0b27ec57e15a1b71ca4595ded7513b494adccdad0a",
   "authorization_id": "log-dmodules-absolute-rank-section4-20261106T130633Z-authorization-v1",
   "authorization_statement_sha256": "23e86ed23fdd02b8be4d7d0b27ec57e15a1b71ca4595ded7513b494adccdad0a",
-  "checkpoint_id": "g09-protocol-only-reconstruction-replacement",
-  "checkpoint_sha256": "f47ade058c2a13c6984f021ae3551f83f534ff59e7128d4a8169a7779f107dda",
-  "next_unfinished_action": "complete_fresh_reconstruction_r2_with_hashed_sources",
+  "checkpoint_id": "g10-reconstruction-r2-complete",
+  "checkpoint_sha256": "d2b7a5d88a9510e7a0d6765fe3b17457b5bfc2adf0248cba279eb3606661f189",
+  "next_unfinished_action": "fresh_comparison_v1_r2",
   "hard_deadline_utc": null,
   "delivery_reserve_utc": null,
   "no_deadline_authorized": true,
@@ -19,12 +19,12 @@
   "run_id": "log-dmodules-absolute-rank-section4-20261106T130633Z-root-g11",
   "lease_generation": 11,
   "phase": "VERIFICATION",
-  "last_heartbeat_utc": "2026-11-06T21:13:22.564Z",
+  "last_heartbeat_utc": "2026-11-06T21:18:52.877Z",
   "recovery_armed": true,
   "terminal_delivery_complete": false,
   "final_status_verified": false,
   "user_stop_requested": false,
   "active_assignments": [
-    "abs_reconstruct_v1_r2"
+    "abs_compare_v1_r2"
   ]
 }
