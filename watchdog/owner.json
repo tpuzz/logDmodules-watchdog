@@ -3,10 +3,12 @@
   "authorization_id": "log-dmodules-absolute-rank-section5-20261106T222951Z-authorization-v1",
   "owner_run_id": "log-dmodules-absolute-rank-section5-20261106T222951Z-root-g12",
   "generation": 12,
-  "status": "active",
+  "status": "released",
   "acquired_at_utc": "2026-11-06T22:33:34.299Z",
   "last_renewed_utc": "2026-11-06T23:08:45.498Z",
-  "lease_expires_utc": "2026-11-06T23:43:45.498Z",
+  "lease_expires_utc": "2026-11-06T23:22:15.317Z",
   "lease_duration_seconds": 2100,
-  "user_stop_requested": false
+  "user_stop_requested": false,
+  "released_at_utc": "2026-11-06T23:22:15.317Z",
+  "release_reason": "campaign_completed"
 }
