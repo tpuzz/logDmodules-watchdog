@@ -6,14 +6,15 @@
   "authorization_statement_sha256": "23e86ed23fdd02b8be4d7d0b27ec57e15a1b71ca4595ded7513b494adccdad0a",
   "checkpoint_id": "g11-promoted-delivery-pending",
   "checkpoint_sha256": "85b9549a5c111292c299b4b0765b5caf7b7fdb11d6929b6b5a18ab7b4fcb3287",
-  "next_unfinished_action": "final_report_export_and_terminal_delivery",
+  "next_unfinished_action": "none",
   "hard_deadline_utc": null,
   "delivery_reserve_utc": null,
   "no_deadline_authorized": true,
   "mathematics_authorized": false,
   "stop_requested": false,
-  "resume_authorized": true,
+  "resume_authorized": false,
   "statement_confirmed": true,
-  "status": "RUNNING",
-  "recovery_mode": "direct_resume"
+  "status": "COMPLETED",
+  "recovery_mode": "direct_resume",
+  "completed_at_utc": "2026-11-06T21:28:11.697Z"
 }
