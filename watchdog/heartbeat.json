@@ -4,9 +4,9 @@
   "statement_sha256": "23e86ed23fdd02b8be4d7d0b27ec57e15a1b71ca4595ded7513b494adccdad0a",
   "authorization_id": "log-dmodules-absolute-rank-section4-20261106T130633Z-authorization-v1",
   "authorization_statement_sha256": "23e86ed23fdd02b8be4d7d0b27ec57e15a1b71ca4595ded7513b494adccdad0a",
-  "checkpoint_id": "g04-leakage-pass",
-  "checkpoint_sha256": "9c157f307c1a6ebe02a33cffb5eb7aba7a12fa20bd82aab6652851ec961b83be",
-  "next_unfinished_action": "hostile_audit_v1",
+  "checkpoint_id": "g05-hostile-pass",
+  "checkpoint_sha256": "fe976eb25ca05885fb9de64a296f5b317ff3bffd0fa76203d52f687f8bf15b65",
+  "next_unfinished_action": "proof_blind_reconstruction_v1",
   "hard_deadline_utc": null,
   "delivery_reserve_utc": null,
   "no_deadline_authorized": true,
@@ -19,12 +19,12 @@
   "run_id": "log-dmodules-absolute-rank-section4-20261106T130633Z-root-g10",
   "lease_generation": 10,
   "phase": "VERIFICATION",
-  "last_heartbeat_utc": "2026-11-06T13:47:59.845Z",
+  "last_heartbeat_utc": "2026-11-06T13:57:09.332Z",
   "recovery_armed": true,
   "terminal_delivery_complete": false,
   "final_status_verified": false,
   "user_stop_requested": false,
   "active_assignments": [
-    "abs_hostile_v1"
+    "abs_reconstruct_v1"
   ]
 }
