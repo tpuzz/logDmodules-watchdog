@@ -1,14 +1,12 @@
 {
-  "campaign_id": "log-dmodules-section5-filtrations-20261105T100929Z",
-  "authorization_id": "log-dmodules-section5-filtrations-20261105T100929Z-authorization-v1",
-  "owner_run_id": "log-dmodules-section5-filtrations-20261105T100929Z-root-g9",
-  "generation": 9,
-  "status": "released",
-  "acquired_at_utc": "2026-11-05T10:12:02.140Z",
-  "last_renewed_utc": "2026-11-05T10:31:56.996Z",
-  "lease_expires_utc": "2026-11-05T10:45:01.935Z",
+  "campaign_id": "log-dmodules-absolute-rank-section4-20261106T130633Z",
+  "authorization_id": "log-dmodules-absolute-rank-section4-20261106T130633Z-authorization-v1",
+  "owner_run_id": "log-dmodules-absolute-rank-section4-20261106T130633Z-root-g10",
+  "generation": 10,
+  "status": "active",
+  "acquired_at_utc": "2026-11-06T13:10:05.358Z",
+  "last_renewed_utc": "2026-11-06T13:10:05.358Z",
+  "lease_expires_utc": "2026-11-06T13:45:05.358Z",
   "lease_duration_seconds": 2100,
-  "user_stop_requested": false,
-  "released_at_utc": "2026-11-05T10:45:01.935Z",
-  "release_reason": "campaign_completed_and_report_delivered"
+  "user_stop_requested": false
 }
