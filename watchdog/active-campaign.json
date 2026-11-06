@@ -6,7 +6,7 @@
   "authorization_statement_sha256": "23e86ed23fdd02b8be4d7d0b27ec57e15a1b71ca4595ded7513b494adccdad0a",
   "checkpoint_id": "g06-epoch1-safe",
   "checkpoint_sha256": "afb650b84dfc83d7248b49e9679417867a5e3f0829fc70d21cf3e6d688fd9873",
-  "next_unfinished_action": "proof_blind_reconstruction_v1",
+  "next_unfinished_action": "recover_proof_blind_reconstruction_after_infrastructure_interruption",
   "hard_deadline_utc": null,
   "delivery_reserve_utc": null,
   "no_deadline_authorized": true,
