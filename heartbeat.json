@@ -1,0 +1,30 @@
+{
+  "campaign_id": "log-dmodules-absolute-rank-section5-20261106T222951Z",
+  "statement_version": "STATEMENT-v1",
+  "statement_sha256": "31789c5fcc3cf940ef52d187fbfbf657479ea19b971a263e1240c175475bfe92",
+  "authorization_id": "log-dmodules-absolute-rank-section5-20261106T222951Z-authorization-v1",
+  "authorization_statement_sha256": "31789c5fcc3cf940ef52d187fbfbf657479ea19b971a263e1240c175475bfe92",
+  "checkpoint_id": "g05-hostile-pass",
+  "checkpoint_sha256": "963e1d74e5c97efab36c4eb3460fb88f02bf1405dd2562089a9648c605bc20ad",
+  "next_unfinished_action": "proof_blind_reconstruction_v1",
+  "hard_deadline_utc": null,
+  "delivery_reserve_utc": null,
+  "no_deadline_authorized": true,
+  "mathematics_authorized": true,
+  "stop_requested": false,
+  "resume_authorized": true,
+  "statement_confirmed": true,
+  "status": "running",
+  "recovery_mode": "direct_resume",
+  "run_id": "log-dmodules-absolute-rank-section5-20261106T222951Z-root-g12",
+  "lease_generation": 12,
+  "phase": "VERIFICATION",
+  "last_heartbeat_utc": "2026-11-06T23:05:38.116Z",
+  "recovery_armed": true,
+  "terminal_delivery_complete": false,
+  "final_status_verified": false,
+  "user_stop_requested": false,
+  "active_assignments": [
+    "ar5_reconstruct_v1"
+  ]
+}
