@@ -4,9 +4,9 @@
   "statement_sha256": "31789c5fcc3cf940ef52d187fbfbf657479ea19b971a263e1240c175475bfe92",
   "authorization_id": "log-dmodules-absolute-rank-section5-20261106T222951Z-authorization-v1",
   "authorization_statement_sha256": "31789c5fcc3cf940ef52d187fbfbf657479ea19b971a263e1240c175475bfe92",
-  "checkpoint_id": "g00-initialization",
-  "checkpoint_sha256": "c3fc3d2b69a223c423e3a8e5592cd8aff9fe71798060ad3b46cc5b914e23e59a",
-  "next_unfinished_action": "recover_exact_promoted_inputs_then_independent_search",
+  "checkpoint_id": "g01-inputs-and-search-ready",
+  "checkpoint_sha256": "d0a3352083dcfc1fb38678879f970a0ce946c2037426d6aa53bd95ee196e447e",
+  "next_unfinished_action": "reconcile_independent_search_wave1",
   "hard_deadline_utc": null,
   "delivery_reserve_utc": null,
   "no_deadline_authorized": true,
@@ -18,11 +18,14 @@
   "recovery_mode": "direct_resume",
   "run_id": "log-dmodules-absolute-rank-section5-20261106T222951Z-root-g12",
   "lease_generation": 12,
-  "phase": "DEPENDENCIES",
-  "last_heartbeat_utc": "2026-11-06T22:33:34.299Z",
+  "phase": "SEARCH",
+  "last_heartbeat_utc": "2026-11-06T22:38:45.008Z",
   "recovery_armed": true,
   "terminal_delivery_complete": false,
   "final_status_verified": false,
   "user_stop_requested": false,
-  "active_assignments": []
+  "active_assignments": [
+    "ar5_formal_w1",
+    "ar5_mixed_w1"
+  ]
 }
