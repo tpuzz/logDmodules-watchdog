@@ -1,19 +1,19 @@
 # Log D Modules workflow status
 
-_Generated from public watchdog coordination state at 2026-11-06T22:55:55.109731Z._
+_Generated from public watchdog coordination state at 2026-11-06T22:56:02.562469Z._
 
 | Field | Status |
 | --- | --- |
 | Campaign | log-dmodules-absolute-rank-section5-20261106T222951Z |
 | Execution | Active |
-| Current gate | Research / search |
-| Next gate | Research / search |
-| Checkpoint | g02-wave1-complete |
+| Current gate | Leakage check |
+| Next gate | Leakage check |
+| Checkpoint | g03-candidate-frozen |
 | Generation | 12 |
 | Lease | Active |
-| Active assignments | 2 |
+| Active assignments | 1 |
 | Recovery | Armed |
-| Last heartbeat (UTC) | 2026-11-06T22:45:59.760Z |
+| Last heartbeat (UTC) | 2026-11-06T22:55:39.051Z |
 | Lease expires (UTC) | 2026-11-06T23:30:39.051Z |
 | Terminal delivery complete | No |
 
