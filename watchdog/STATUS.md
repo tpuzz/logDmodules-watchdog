@@ -1,6 +1,6 @@
 # Log D Modules workflow status
 
-_Generated from public watchdog coordination state at 2026-11-06T20:57:08.337337Z._
+_Generated from public watchdog coordination state at 2026-11-06T20:57:53.669963Z._
 
 | Field | Status |
 | --- | --- |
@@ -11,9 +11,9 @@ _Generated from public watchdog coordination state at 2026-11-06T20:57:08.337337
 | Checkpoint | g08-reconstruction-complete |
 | Generation | 11 |
 | Lease | Active |
-| Active assignments | 0 |
+| Active assignments | 1 |
 | Recovery | Armed |
-| Last heartbeat (UTC) | 2026-11-06T20:56:43.681Z |
+| Last heartbeat (UTC) | 2026-11-06T20:57:38.625Z |
 | Lease expires (UTC) | 2026-11-06T21:31:43.681Z |
 | Terminal delivery complete | No |
 
