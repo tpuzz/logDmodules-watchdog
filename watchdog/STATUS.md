@@ -1,6 +1,6 @@
 # Log D Modules workflow status
 
-_Generated from public watchdog coordination state at 2026-11-07T09:51:33.888077Z._
+_Generated from public watchdog coordination state at 2026-11-07T09:54:51.957465Z._
 
 | Field | Status |
 | --- | --- |
@@ -8,12 +8,12 @@ _Generated from public watchdog coordination state at 2026-11-07T09:51:33.888077
 | Execution | Active |
 | Current gate | Proof-blind reconstruction |
 | Next gate | Proof-blind reconstruction |
-| Checkpoint | g05-epoch2-safe |
+| Checkpoint | g05-epoch3-reconstruction-active-safe |
 | Generation | 14 |
 | Lease | Active |
 | Active assignments | 1 |
 | Recovery | Armed |
-| Last heartbeat (UTC) | 2026-11-07T09:51:21.472Z |
+| Last heartbeat (UTC) | 2026-11-07T09:54:38.843Z |
 | Lease expires (UTC) | 2026-11-07T10:24:42.859Z |
 | Terminal delivery complete | No |
 
