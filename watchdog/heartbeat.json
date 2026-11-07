@@ -4,9 +4,9 @@
   "statement_sha256": "6e05bb797ec0aecc66f2f941eba9d7710d242d84920e1075341a4f3366d550ac",
   "authorization_id": "log-dmodules-lemma59-source-injectivity-20261106T234556Z-authorization-v1",
   "authorization_statement_sha256": "6e05bb797ec0aecc66f2f941eba9d7710d242d84920e1075341a4f3366d550ac",
-  "checkpoint_id": "g03-candidate-frozen",
-  "checkpoint_sha256": "c5a2ac9b85bf66f34f38c174787486aefffda14e15cf7ac2cd9b5753c0b30dfb",
-  "next_unfinished_action": "fresh_leakage_check_v1",
+  "checkpoint_id": "g04-leakage-pass",
+  "checkpoint_sha256": "315dc8358a3ec7525126799cf550eb44ab6ac440650c6d4c39ba7e6d6710ed9e",
+  "next_unfinished_action": "fresh_hostile_audit_v1",
   "hard_deadline_utc": null,
   "delivery_reserve_utc": null,
   "no_deadline_authorized": true,
@@ -18,11 +18,13 @@
   "status": "running",
   "run_id": "log-dmodules-lemma59-source-injectivity-20261106T234556Z-root-g13",
   "lease_generation": 13,
-  "phase": "CANDIDATE_FROZEN",
-  "last_heartbeat_utc": "2026-11-07T00:19:48.912Z",
+  "phase": "HOSTILE_AUDIT",
+  "last_heartbeat_utc": "2026-11-07T00:24:31.817Z",
   "recovery_armed": true,
   "terminal_delivery_complete": false,
   "final_status_verified": false,
   "user_stop_requested": false,
-  "active_assignments": []
+  "active_assignments": [
+    "l59_hostile_v1"
+  ]
 }
