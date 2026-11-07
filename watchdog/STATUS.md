@@ -1,19 +1,19 @@
 # Log D Modules workflow status
 
-_Generated from public watchdog coordination state at 2026-11-07T00:11:33.869736Z._
+_Generated from public watchdog coordination state at 2026-11-07T00:19:54.857939Z._
 
 | Field | Status |
 | --- | --- |
 | Campaign | log-dmodules-lemma59-source-injectivity-20261106T234556Z |
 | Execution | Active |
-| Current gate | Research / search |
-| Next gate | Research / search |
-| Checkpoint | g02-wave1-complete |
+| Current gate | Leakage check |
+| Next gate | Leakage check |
+| Checkpoint | g03-candidate-frozen |
 | Generation | 13 |
 | Lease | Active |
-| Active assignments | 2 |
+| Active assignments | 0 |
 | Recovery | Armed |
-| Last heartbeat (UTC) | 2026-11-07T00:07:33.906Z |
+| Last heartbeat (UTC) | 2026-11-07T00:19:48.912Z |
 | Lease expires (UTC) | 2026-11-07T00:46:21.776Z |
 | Terminal delivery complete | No |
 
