@@ -3,10 +3,12 @@
   "authorization_id": "log-dmodules-lemma59-source-injectivity-20261106T234556Z-authorization-v1",
   "owner_run_id": "log-dmodules-lemma59-source-injectivity-20261106T234556Z-root-g14",
   "generation": 14,
-  "status": "active",
+  "status": "released",
   "acquired_at_utc": "2026-11-07T09:49:42.855Z",
   "last_renewed_utc": "2026-11-07T10:04:49.226Z",
-  "lease_expires_utc": "2026-11-07T10:39:49.226Z",
+  "lease_expires_utc": "2026-11-07T10:17:47.065Z",
   "lease_duration_seconds": 2100,
-  "user_stop_requested": false
+  "user_stop_requested": false,
+  "released_at_utc": "2026-11-07T10:17:47.065Z",
+  "release_reason": "campaign_mathematically_complete_outputs_saved"
 }
