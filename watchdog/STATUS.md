@@ -1,19 +1,19 @@
 # Log D Modules workflow status
 
-_Generated from public watchdog coordination state at 2026-11-07T00:32:00.245447Z._
+_Generated from public watchdog coordination state at 2026-11-07T00:47:16.851984Z._
 
 | Field | Status |
 | --- | --- |
 | Campaign | log-dmodules-lemma59-source-injectivity-20261106T234556Z |
-| Execution | Active |
+| Execution | Unknown |
 | Current gate | Proof-blind reconstruction |
 | Next gate | Proof-blind reconstruction |
-| Checkpoint | g05-hostile-pass |
+| Checkpoint | g05-epoch2-safe |
 | Generation | 13 |
 | Lease | Active |
-| Active assignments | 1 |
+| Active assignments | 0 |
 | Recovery | Armed |
-| Last heartbeat (UTC) | 2026-11-07T00:30:11.372Z |
+| Last heartbeat (UTC) | 2026-11-07T00:47:00.150Z |
 | Lease expires (UTC) | 2026-11-07T01:06:47.449Z |
 | Terminal delivery complete | No |
 
