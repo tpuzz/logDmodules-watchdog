@@ -19,11 +19,13 @@
   "run_id": "log-dmodules-lemma59-source-injectivity-20261106T234556Z-root-g14",
   "lease_generation": 14,
   "phase": "PROOF_BLIND_RECONSTRUCTION",
-  "last_heartbeat_utc": "2026-11-07T09:49:42.855Z",
+  "last_heartbeat_utc": "2026-11-07T09:51:21.472Z",
   "recovery_armed": true,
   "terminal_delivery_complete": false,
   "final_status_verified": false,
   "user_stop_requested": false,
-  "active_assignments": [],
+  "active_assignments": [
+    "l59_reconstruct_epoch3"
+  ],
   "execution_epoch": 3
 }
