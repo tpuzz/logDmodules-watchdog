@@ -4,9 +4,9 @@
   "statement_sha256": "6e05bb797ec0aecc66f2f941eba9d7710d242d84920e1075341a4f3366d550ac",
   "authorization_id": "log-dmodules-lemma59-source-injectivity-20261106T234556Z-authorization-v1",
   "authorization_statement_sha256": "6e05bb797ec0aecc66f2f941eba9d7710d242d84920e1075341a4f3366d550ac",
-  "checkpoint_id": "g05-hostile-pass",
-  "checkpoint_sha256": "015a60081670a0c36c764a76a9dfaddec41de639b09fbacec8ba07467088c451",
-  "next_unfinished_action": "fresh_proof_blind_reconstruction_v1",
+  "checkpoint_id": "g05-epoch2-safe",
+  "checkpoint_sha256": "6bb9eb20d08691587246a275b50c3163d496aead4704db343eae5129ab9aa1fb",
+  "next_unfinished_action": "recover_fresh_proof_blind_reconstruction_after_infrastructure_interruption",
   "hard_deadline_utc": null,
   "delivery_reserve_utc": null,
   "no_deadline_authorized": true,
@@ -15,5 +15,5 @@
   "resume_authorized": true,
   "statement_confirmed": true,
   "recovery_mode": "direct_resume",
-  "status": "RUNNING"
+  "status": "INFRASTRUCTURE_INTERRUPTED"
 }
